@@ -1,0 +1,122 @@
+[
+  {
+    "path": "/",
+    "name": "home",
+    "file": "Home"
+  },
+  {
+    "path": "/tasks",
+    "name": "tasks",
+    "file": "Tasks"
+  },
+  {
+    "path": "/works/:id?",
+    "name": "works",
+    "file": "Works"
+  },
+  {
+    "path": "/chat",
+    "name": "chat",
+    "file": "Chat"
+  },
+  {
+    "path": "/draw",
+    "name": "draw",
+    "file": "Draw"
+  },
+  {
+    "path": "/video",
+    "name": "video",
+    "file": "Video"
+  },
+  {
+    "path": "/drama",
+    "name": "drama",
+    "file": "redirect → /short-drama-production"
+  },
+  {
+    "path": "/short-drama-production",
+    "name": "short-drama-production",
+    "file": "ShortDramaProduction"
+  },
+  {
+    "path": "/short-drama-production/project/:id",
+    "name": "short-drama-production-project",
+    "file": "ShortDramaProductionWorkspace"
+  },
+  {
+    "path": "/drama-auto",
+    "name": "drama-auto",
+    "file": "DramaAuto(iframe mengyan.kk0606.com)"
+  },
+  {
+    "path": "/video-recreation",
+    "name": "video-recreation-hidden",
+    "file": "redirect → /"
+  },
+  {
+    "path": "/remake-workshop",
+    "name": "remake-workshop",
+    "file": "RemakeWorkshop"
+  },
+  {
+    "path": "/remake-workshop/project/:id/progress",
+    "name": "remake-workshop-progress",
+    "file": "RemakeProgress"
+  },
+  {
+    "path": "/video-face-swap",
+    "name": "video-face-swap",
+    "file": "VideoFaceSwap"
+  },
+  {
+    "path": "/drama-commerce",
+    "name": "drama-commerce",
+    "file": "DramaCommerce"
+  },
+  {
+    "path": "/drama/project/:id",
+    "name": "drama-project",
+    "file": "redirect"
+  },
+  {
+    "path": "/drama/editor",
+    "name": "",
+    "file": "redirect → /short-drama-production"
+  },
+  {
+    "path": "/script-tools",
+    "name": "script-tools",
+    "file": "ScriptTools"
+  },
+  {
+    "path": "/script-maker",
+    "name": "script-maker",
+    "file": "ScriptMaker"
+  },
+  {
+    "path": "/canvas",
+    "name": "canvas",
+    "file": "Canvas(开发中占位)"
+  },
+  {
+    "path": "/settings",
+    "name": "settings",
+    "file": "Settings"
+  },
+  {
+    "path": "/tutorials/:id?",
+    "name": "tutorials",
+    "file": "Tutorials"
+  },
+  {
+    "path": "/agency",
+    "name": "agency",
+    "file": "Agency"
+  },
+  {
+    "path": "/admin",
+    "name": "admin",
+    "file": "Admin(内嵌在 runtime)"
+  }
+]
