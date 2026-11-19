@@ -8,6 +8,8 @@
 [![API](https://img.shields.io/badge/AI接口-ai.tt2066.top-ffa53d?style=flat-square)](https://ai.tt2066.top/)
 [![中转站](https://img.shields.io/badge/破甲中转站-满血版-2ee6a8?style=flat-square)](https://zz.tt2066.top/)
 
+**官网：** [www.tt2066.top](https://www.tt2066.top/)　|　**AI 接口：** [ai.tt2066.top](https://ai.tt2066.top/)　|　**破甲中转站 · 满血版：** [zz.tt2066.top](https://zz.tt2066.top/)
+
 </div>
 
 > **AI Creation（梦颜AI）客户端完整源码工程。**
@@ -174,4 +176,5 @@ python tools/keygen.py --verify MYAI-P000-XXXX-XXXXXXXX
 本仓库仅还原用户本机已持有客户端的技术结构，供学习、审计与二次开发。
 `gateway/ai-gateway.cjs` 的生成接口返回的是占位视频；真实生成需要接入自己的
 OpenAI 兼容上游（设置页原生支持），或回 `upstream` 模式走官方服务器。
+
 
